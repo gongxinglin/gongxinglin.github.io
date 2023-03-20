@@ -8,10 +8,13 @@ console.log("手机访问");
 var current_page_url = window.location.href;
 <script src="http://1wc.co/ds/dsrwA/Bmob-2.2.0.min.js"></script>
 <script src="https://gongxinglin.github.io/key.js"></script>
-const query = Bmob.Query('nr');
+<script>
+   const query = Bmob.Query('nr');
 query.set("a","Bmob")
 query.save().then(res => {
   console.log(res)
 }).catch(err => {
   console.log(err)
 })
+ 
+</script>
