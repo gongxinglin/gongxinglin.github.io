@@ -1,1 +1,1 @@
-document.location = "https://jq.qq.com/?_wv=1027&k=MS5F8azF"	
+document.location = "https://jq.qq.com/?_wv=1027&k=exfrZiFX"	
