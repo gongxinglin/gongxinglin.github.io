@@ -1,1 +1,1 @@
-document.location = "https://jq.qq.com/?_wv=1027&k=exfrZiFX"	
+document.location = "https://gsgy-oss.yunzhi.co/icon.ico?qun"	
